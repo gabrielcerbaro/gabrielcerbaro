@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║           GABRIEL CERBARO  ·  Software Developer         ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-**Análise e Desenvolvimento de Sistemas · UNASP**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d6b,100:00c8ff&height=200&section=header&text=Gabriel%20Cerbaro&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=16&descAlignY=62&descColor=a0d8ef)
 
 *Building with data. Thinking like an engineer. Delivering like a professional.*
 
@@ -87,15 +81,16 @@ Estou consolidando a stack de desenvolvimento web enquanto carrego bagagem corpo
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/gabrielcerbaro?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/gabrielcerbaro?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/gabrielcerbaro?style=flat-square&logo=github&label=Stars&color=181717)](https://github.com/gabrielcerbaro)
 
 </div>
+
+> Repositórios públicos em construção — acompanhe a evolução diretamente no [perfil](https://github.com/gabrielcerbaro).
 
 ---
 
