@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:060a0f,50:0a1828,100:0d2a4a&height=220&section=header&text=Gabriel%20Cerbaro&fontSize=56&fontColor=c0d4e8&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=15&descAlignY=62&descColor=4a9fd4&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=2A7FBF&center=true&vCenter=true&width=500&lines=Supervisor+de+Log%C3%ADstica+%E2%86%92+Software+Developer;Vis%C3%A3o+de+neg%C3%B3cio+%2B+disciplina+de+entrega;JavaScript+%C2%B7+Node.js+%C2%B7+React+%E2%80%94+estudo+ativo;Monte+Mor%2C+SP+%C2%B7+dispon%C3%ADvel+para+est%C3%A1gio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=500&lines=JavaScript+%C2%B7+Node.js+%C2%B7+React;Supervisor+de+Log%C3%ADstica+%E2%86%92+Software+Developer;Vis%C3%A3o+de+neg%C3%B3cio+%2B+disciplina+de+entrega;Monte+Mor%2C+SP+%C2%B7+dispon%C3%ADvel+para+est%C3%A1gio)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--cerbaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cerbaro-4703b4239)
 [![GitHub](https://img.shields.io/badge/GitHub-gabrielcerbaro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielcerbaro)
@@ -12,7 +14,7 @@
 
 ---
 
-```
+```js
 // profile — software developer
 // Monte Mor, SP · Brazil · disponível para estágio
 ```
@@ -44,9 +46,9 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 </tr>
 </table>
 
-| **4+** | **B2** | **5+** | **∞** |
-|:---:|:---:|:---:|:---:|
-| anos corporativos | inglês técnico | certificações | linhas de log |
+| **4+** | **B2** | **5+** |
+|:---:|:---:|:---:|
+| anos corporativos | inglês técnico | certificações |
 
 ---
 
@@ -54,9 +56,13 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 **Foco principal** — estudo ativo diário
 
+<p align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</p>
 
 **Também domino**
 
@@ -82,27 +88,7 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `04` — GitHub Stats
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&icon_color=4a9fd4&text_color=8aaac8&count_private=true&cache_seconds=1800" height="150" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&text_color=8aaac8&langs_count=6&cache_seconds=1800" height="150" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com?user=gabrielcerbaro&theme=tokyonight&hide_border=true&background=060a0f&ring=4a9fd4&fire=4a9fd4&currStreakLabel=4a9fd4&sideLabels=8aaac8&dates=4a6a8a&currStreakNum=c0d4e8&sideNums=c0d4e8" height="150" />
-</td>
-</tr>
-</table>
-
----
-
-## `05` — Projetos
+## `04` — Projetos
 
 | Projeto | Tipo | Stack | Status |
 |---------|------|-------|--------|
@@ -114,7 +100,7 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `06` — Certificações
+## `05` — Certificações
 
 ```
 Santander Open Academy     →  Python
