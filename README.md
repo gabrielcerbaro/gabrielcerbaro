@@ -88,7 +88,21 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `04` — Projetos
+## `04` — Atividade
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielcerbaro&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielcerbaro&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielcerbaro&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcerbaro&theme=tokyonight" width="32%" />
+</p>
+
+---
+
+## `05` — Projetos
 
 | Projeto | Tipo | Stack | Status |
 |---------|------|-------|--------|
@@ -100,7 +114,7 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `05` — Certificações
+## `06` — Certificações
 
 ```
 Santander Open Academy     →  Python
