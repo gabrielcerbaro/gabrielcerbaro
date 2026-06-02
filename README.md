@@ -84,18 +84,21 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ## `04` — GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&icon_color=4a9fd4&text_color=8aaac8&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&text_color=8aaac8" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=gabrielcerbaro&theme=tokyonight&hide_border=true&background=060a0f&ring=4a9fd4&fire=4a9fd4&currStreakLabel=4a9fd4&sideLabels=8aaac8&dates=4a6a8a&currStreakNum=c0d4e8&sideNums=c0d4e8)
-
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&icon_color=4a9fd4&text_color=8aaac8&count_private=true&cache_seconds=1800" height="150" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&text_color=8aaac8&langs_count=6&cache_seconds=1800" height="150" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=gabrielcerbaro&theme=tokyonight&hide_border=true&background=060a0f&ring=4a9fd4&fire=4a9fd4&currStreakLabel=4a9fd4&sideLabels=8aaac8&dates=4a6a8a&currStreakNum=c0d4e8&sideNums=c0d4e8" height="150" />
+</td>
+</tr>
+</table>
 
 ---
 
