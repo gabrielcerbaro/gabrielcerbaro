@@ -1,20 +1,25 @@
-<!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:060a0f,100:0a1828&height=180&section=header&text=Gabriel%20Cerbaro&fontSize=52&fontColor=c0d4e8&fontAlignY=50&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=14&descAlignY=72&descColor=2a7fbf&stroke=2a7fbf&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:060a0f,50:0a1828,100:0d2a4a&height=220&section=header&text=Gabriel%20Cerbaro&fontSize=56&fontColor=c0d4e8&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=15&descAlignY=62&descColor=4a9fd4&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=2A7FBF&center=true&vCenter=true&width=500&lines=Supervisor+de+Log%C3%ADstica+%E2%86%92+Software+Developer;Vis%C3%A3o+de+neg%C3%B3cio+%2B+disciplina+de+entrega;JavaScript+%C2%B7+Node.js+%C2%B7+React+%E2%80%94+estudo+ativo;Monte+Mor%2C+SP+%C2%B7+dispon%C3%ADvel+para+est%C3%A1gio)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--cerbaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cerbaro-4703b4239)
+[![GitHub](https://img.shields.io/badge/GitHub-gabrielcerbaro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielcerbaro)
+[![Email](https://img.shields.io/badge/Email-outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gabriel.cerbaro@outlook.com)
 
 </div>
+
+---
 
 ```
 // profile — software developer
 // Monte Mor, SP · Brazil · disponível para estágio
 ```
 
----
-
-> *Técnico em TI em transição estratégica para dev.*
+> *Técnico em TI em transição estratégica para desenvolvimento de software.*
 > *Levo da logística o que a maioria dos devs júnior não tem:*
-> *visão de negócio, disciplina de entrega e pressão real.*
+> *visão de negócio, disciplina de entrega e capacidade real de resolver problemas sob pressão.*
 
 ---
 
@@ -33,22 +38,21 @@ Supervisor de Logística com 4+ anos em ambiente operacional de alta demanda. Co
 
 **Direção**
 
-Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria dos candidatos não carrega. Inglês B2 — confortável com documentação técnica.
+Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria dos candidatos não carrega. Inglês B2 — confortável com documentação técnica e times globais.
 
 </td>
 </tr>
 </table>
 
-| | | | |
-|:---:|:---:|:---:|:---:|
 | **4+** | **B2** | **5+** | **∞** |
+|:---:|:---:|:---:|:---:|
 | anos corporativos | inglês técnico | certificações | linhas de log |
 
 ---
 
 ## `02` — Stack
 
-**Foco atual** — estudo ativo diário
+**Foco principal** — estudo ativo diário
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -78,19 +82,36 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `04` — Projetos
+## `04` — GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielcerbaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&icon_color=4a9fd4&text_color=8aaac8&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcerbaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=4a9fd4&text_color=8aaac8" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=gabrielcerbaro&theme=tokyonight&hide_border=true&background=060a0f&ring=4a9fd4&fire=4a9fd4&currStreakLabel=4a9fd4&sideLabels=8aaac8&dates=4a6a8a&currStreakNum=c0d4e8&sideNums=c0d4e8)
+
+</div>
+
+---
+
+## `05` — Projetos
 
 | Projeto | Tipo | Stack | Status |
 |---------|------|-------|--------|
 | `portfolio` | web · frontend | HTML · CSS · JavaScript | `em construção` |
 | `data-dashboard` | data · analytics | Python · SQL · Power BI | `em construção` |
-| `TBD` | fullstack | JavaScript · Node.js | `planejando` |
+| `TBD` | fullstack | JavaScript · Node.js · React | `planejando` |
 
 > Repositórios sendo populados — acompanhe a evolução no [perfil](https://github.com/gabrielcerbaro).
 
 ---
 
-## `05` — Certificações
+## `06` — Certificações
 
 ```
 Santander Open Academy     →  Python
@@ -102,16 +123,10 @@ Udemy                      →  Leadership & People Management
 
 ---
 
-## `06` — Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--cerbaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cerbaro-4703b4239)
-[![GitHub](https://img.shields.io/badge/GitHub-gabrielcerbaro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielcerbaro)
-[![Email](https://img.shields.io/badge/Email-gabriel.cerbaro@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gabriel.cerbaro@outlook.com)
-
----
-
 <div align="center">
 
-`GABRIEL CERBARO` · `MONTE MOR, SP` · `DISPONÍVEL PARA ESTÁGIO`
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2a4a,50:0a1828,100:060a0f&height=100&section=footer)
+
+`MONTE MOR, SP · BRAZIL · DISPONÍVEL PARA ESTÁGIO`
 
 </div>
