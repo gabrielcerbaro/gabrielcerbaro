@@ -105,9 +105,9 @@ Stack de desenvolvimento web sólida, formada em cima de uma base que a maioria 
 
 | Projeto | Tipo | Stack | Status |
 |---------|------|-------|--------|
-| `portfolio` | web · frontend | HTML · CSS · JavaScript | `em construção` |
-| `data-dashboard` | data · analytics | Python · SQL · Power BI | `em construção` |
-| `TBD` | fullstack | JavaScript · Node.js · React | `planejando` |
+| `to-do-list` | web · frontend | HTML · CSS · JavaScript | `concluído` |
+| `portfolio` | web · frontend | HTML · CSS · JavaScript | `em manutenção` |
+| `controle-estoque` | fullstack | JavaScript · Node.js · SQL | `em desenvolvimento` |
 
 > Repositórios sendo populados — acompanhe a evolução no [perfil](https://github.com/gabrielcerbaro).
 
