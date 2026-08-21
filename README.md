@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:060a0f,50:0a1828,100:0d2a4a&height=220&section=header&text=Gabriel%20Cerbaro&fontSize=56&fontColor=c0d4e8&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=15&descAlignY=62&descColor=4a9fd4&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=500&lines=JavaScript+%C2%B7+Node.js+%C2%B7+React;Supervisor+de+Log%C3%ADstica+%E2%86%92+Software+Developer;Vis%C3%A3o+de+neg%C3%B3cio+%2B+disciplina+de+entrega;Monte+Mor%2C+SP+%C2%B7+dispon%C3%ADvel+para+est%C3%A1gio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=500&lines=JavaScript+%C2%B7+Node.js+%C2%B7+React;6%2B+anos+resolvendo+problemas+reais+de+neg%C3%B3cio;Log%C3%ADstica+%2B+Dados+%2B+C%C3%B3digo;Monte+Mor%2C+SP+%C2%B7+Brasil)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,45 +16,45 @@
 
 ```js
 // profile — software developer
-// Monte Mor, SP · Brazil · disponível para estágio
+// Monte Mor, SP · Brazil
 ```
 
-> *Técnico em TI em transição estratégica para desenvolvimento de software.*
-> *Levo da logística o que a maioria dos devs júnior não tem:*
-> *visão de negócio, disciplina de entrega e capacidade real de resolver problemas sob pressão.*
+> *Quase 6 anos gerenciando operação, gente e dados sob pressão real.*
+> *Hoje aplico essa mesma disciplina para escrever código.*
+> *Não sou um júnior comum tentando entrar no mercado — sou alguém que já entrega resultado e está trazendo isso para dentro do desenvolvimento de software.*
 
 ---
 
-## `01` — Background
+## `01` — Quem eu sou
 
 <table>
 <tr>
 <td width="50%">
 
-**Contexto atual**
+**O que eu já construí**
 
-Supervisor de Logística com 4+ anos em ambiente operacional de alta demanda. Construí dashboards no Power BI, monitorei KPIs críticos e gerenciei times sob pressão real.
+6 anos como Supervisor de Logística em ambiente operacional de alta demanda. Dashboards em Power BI usados para decisão real, KPIs sob minha responsabilidade direta, times liderados sob pressão de prazo e resultado.
 
 </td>
 <td width="50%">
 
-**Direção**
+**O que eu construo agora**
 
-Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria dos candidatos não carrega. Inglês B2 — confortável com documentação técnica e times globais.
+Stack de desenvolvimento web sólida, formada em cima de uma base que a maioria dos devs júnior não tem: visão de negócio, leitura de dados e capacidade comprovada de entregar sob pressão. Inglês B2 — leio documentação técnica e converso com times globais sem depender de tradução.
 
 </td>
 </tr>
 </table>
 
-| **4+** | **B2** | **5+** |
+| **6+** | **B2** | **5+** |
 |:---:|:---:|:---:|
-| anos corporativos | inglês técnico | certificações |
+| anos de experiência corporativa | inglês técnico | certificações |
 
 ---
 
 ## `02` — Stack
 
-**Foco principal** — estudo ativo diário
+**Foco principal**
 
 <p align="center">
 
@@ -75,14 +75,14 @@ Consolidando stack de desenvolvimento web com bagagem corporativa que a maioria 
 
 ---
 
-## `03` — Diferenciais
+## `03` — Por que sou um bom investimento
 
 ```
-→ EXP   Experiência corporativa real — 4+ anos em ambiente de alta pressão e múltiplos stakeholders
-→ DAT   Dados & dashboards — KPIs, Power BI e decisões baseadas em análise, não em suposição
-→ MND   Mindset analítico — resolução de problemas com dados. Diagnóstico antes de solução
-→ LRN   Fast learner — Técnico em TI + ADS em andamento + certificações paralelas simultâneas
-→ ENG   Inglês B2 — confortável com documentação técnica e times globais
+→ EXP   6+ anos de experiência corporativa real — múltiplos stakeholders, prazo e pressão de verdade
+→ DAT   Dados & dashboards — decisões baseadas em KPI e análise, não em achismo
+→ MND   Diagnóstico antes de solução — mindset formado resolvendo problema de operação todo dia
+→ LRN   Técnico em TI + ADS em andamento + certificações simultâneas — aprendo rápido e entrego
+→ ENG   Inglês B2 — pronto para documentação técnica e time internacional sem fricção
 ```
 
 ---
@@ -129,6 +129,6 @@ Udemy                      →  Leadership & People Management
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2a4a,50:0a1828,100:060a0f&height=100&section=footer)
 
-`MONTE MOR, SP · BRAZIL · DISPONÍVEL PARA ESTÁGIO`
+`MONTE MOR, SP · BRASIL · PRONTO PARA GERAR IMPACTO EM DESENVOLVIMENTO`
 
 </div>
