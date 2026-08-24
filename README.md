@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:060a0f,50:0a1828,100:0d2a4a&height=220&section=header&text=Gabriel%20Cerbaro&fontSize=56&fontColor=c0d4e8&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20ADS%20%40%20UNASP&descSize=15&descAlignY=62&descColor=4a9fd4&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=500&lines=JavaScript+%C2%B7+Node.js+%C2%B7+React;6%2B+anos+resolvendo+problemas+reais+de+neg%C3%B3cio;Log%C3%ADstica+%2B+Dados+%2B+C%C3%B3digo;Monte+Mor%2C+SP+%C2%B7+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=500&lines=JavaScript+%C2%B7+Node.js;6%2B+anos+resolvendo+problemas+reais+de+neg%C3%B3cio;Log%C3%ADstica+%2B+Dados+%2B+C%C3%B3digo;Monte+Mor%2C+SP+%C2%B7+Brasil)](https://git.io/typing-svg)
 
 <br/>
 
